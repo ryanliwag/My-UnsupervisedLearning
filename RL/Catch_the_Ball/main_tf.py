@@ -18,7 +18,7 @@ FINAL_EPSILON = 0.05
 #lower values              
 EXPLORE = 500000 
 OBSERVE = 50000
-#store our experiences, the size of it
+#store our experiences, the size of its
 REPLAY_MEMORY = 500000
 #batch size to train on
 BATCH = 100
